@@ -1,0 +1,4 @@
+flask==0.10.1
+gevent==1.0
+gunicorn==18.0
+requests==2.0.1
